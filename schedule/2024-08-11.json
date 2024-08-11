@@ -1,0 +1,4809 @@
+{
+    "units": [
+        {
+            "disciplineName": "Athletics",
+            "eventUnitName": "Women\u0027s Marathon",
+            "id": "ATHWMARATHON----------FNL-000100--",
+            "disciplineCode": "ATH",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "ATHWMARATHON----------------------",
+            "eventName": "Women\u0027s Marathon",
+            "phaseId": "ATHWMARATHON----------FNL---------",
+            "phaseName": "Women\u0027s Marathon Final",
+            "disciplineId": "ATH-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T08:00:00+02:00",
+            "endDate": "2024-08-11T11:15:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "INV",
+            "venueDescription": "Invalides",
+            "location": "INV",
+            "locationDescription": "Invalides",
+            "status": "RUNNING",
+            "statusDescription": "Running",
+            "medalFlag": 1,
+            "liveFlag": true,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "ATH21",
+            "competitors": [
+                {
+                    "code": "1972105",
+                    "noc": "NED",
+                    "name": "Sifan HASSAN",
+                    "order": 0,
+                    "results": {
+                        "position": "1",
+                        "mark": "2:22:55",
+                        "medalType": "ME_GOLD",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1901487",
+                    "noc": "ETH",
+                    "name": "Tigst ASSEFA",
+                    "order": 1,
+                    "results": {
+                        "position": "2",
+                        "mark": "2:22:58",
+                        "medalType": "ME_SILVER",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1932851",
+                    "noc": "KEN",
+                    "name": "Hellen OBIRI",
+                    "order": 2,
+                    "results": {
+                        "position": "3",
+                        "mark": "2:23:10",
+                        "medalType": "ME_BRONZE",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1932872",
+                    "noc": "KEN",
+                    "name": "Sharon LOKEDI",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "2:23:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1901497",
+                    "noc": "ETH",
+                    "name": "Amane Beriso SHANKULE",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "2:23:57",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1921634",
+                    "noc": "JPN",
+                    "name": "SUZUKI Yuka",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "2:24:02",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1538999",
+                    "noc": "ROU",
+                    "name": "Delvine Relin MERINGOR",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "2:24:56",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981010",
+                    "noc": "UGA",
+                    "name": "Stella CHESANG",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:01",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1564681",
+                    "noc": "ISR",
+                    "name": "Lonah Chemtai SALPETER",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:08",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1926104",
+                    "noc": "BRN",
+                    "name": "Eunice Chebichii CHUMBA",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:10",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1555506",
+                    "noc": "MAR",
+                    "name": "Fatima Ezzahra GARDADI",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:30",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1960612",
+                    "noc": "USA",
+                    "name": "Dakotah LINDWURM",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:44",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1939794",
+                    "noc": "AUS",
+                    "name": "Jessica STENSON",
+                    "order": 12,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:45",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1566778",
+                    "noc": "KGZ",
+                    "name": "Sardana TROFIMOVA",
+                    "order": 13,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:47",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1932812",
+                    "noc": "KEN",
+                    "name": "Peres JEPCHIRCHIR",
+                    "order": 14,
+                    "results": {
+                        "position": "",
+                        "mark": "2:26:51",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977847",
+                    "noc": "SUI",
+                    "name": "Fabienne SCHLUMPF",
+                    "order": 15,
+                    "results": {
+                        "position": "",
+                        "mark": "2:28:10",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1904162",
+                    "noc": "ESP",
+                    "name": "Majida MAAYOUF",
+                    "order": 16,
+                    "results": {
+                        "position": "",
+                        "mark": "2:28:35",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1935585",
+                    "noc": "PER",
+                    "name": "Thalia VALDIVIA",
+                    "order": 17,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:01",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1915355",
+                    "noc": "BEL",
+                    "name": "Hanne VERBRUGGEN",
+                    "order": 18,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:03",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1911979",
+                    "noc": "FRA",
+                    "name": "Mekdes WOLDU",
+                    "order": 19,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:20",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1537510",
+                    "noc": "ARG",
+                    "name": "Florencia BORELLI",
+                    "order": 20,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:29",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977829",
+                    "noc": "SUI",
+                    "name": "Helen BEKELE",
+                    "order": 21,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:43",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1965864",
+                    "noc": "USA",
+                    "name": "Emily SISSON",
+                    "order": 22,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:53",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1939770",
+                    "noc": "AUS",
+                    "name": "Genevieve GREGSON",
+                    "order": 23,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:56",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1905423",
+                    "noc": "ESP",
+                    "name": "Meritxell SOLER",
+                    "order": 24,
+                    "results": {
+                        "position": "",
+                        "mark": "2:29:56",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1892111",
+                    "noc": "CZE",
+                    "name": "Tereza HROCHOVA",
+                    "order": 25,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:00",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1535217",
+                    "noc": "MEX",
+                    "name": "Citlali CRISTIAN MOSCOTE",
+                    "order": 26,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:03",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1539963",
+                    "noc": "IRL",
+                    "name": "Fionnuala McCORMACK",
+                    "order": 27,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:12",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1920384",
+                    "noc": "GER",
+                    "name": "Domenika MAYER",
+                    "order": 28,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1552349",
+                    "noc": "ITA",
+                    "name": "Sofiia YAREMCHUK",
+                    "order": 29,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:20",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1891828",
+                    "noc": "LES",
+                    "name": "Mokulubete Blandina MAKATISI",
+                    "order": 30,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:20",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981084",
+                    "noc": "RSA",
+                    "name": "Cian OLDKNOW",
+                    "order": 31,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:29",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1933527",
+                    "noc": "KAZ",
+                    "name": "Zhanna MAMAZHANOVA",
+                    "order": 32,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:51",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "3553297",
+                    "noc": "BRN",
+                    "name": "Tigist GASHAW",
+                    "order": 33,
+                    "results": {
+                        "position": "",
+                        "mark": "2:30:53",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1974105",
+                    "noc": "CAN",
+                    "name": "Malindi ELMORE",
+                    "order": 34,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:08",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1573135",
+                    "noc": "POL",
+                    "name": "Aleksandra LISOWSKA",
+                    "order": 35,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:10",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981077",
+                    "noc": "RSA",
+                    "name": "Irvette van ZYL",
+                    "order": 36,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1920249",
+                    "noc": "GER",
+                    "name": "Laura HOTTENROTT",
+                    "order": 37,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:19",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1555500",
+                    "noc": "MAR",
+                    "name": "Kaoutar FARKOUSSI",
+                    "order": 38,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:34",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1931384",
+                    "noc": "TAN",
+                    "name": "Magdalena SHAURI",
+                    "order": 39,
+                    "results": {
+                        "position": "",
+                        "mark": "2:31:58",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1539497",
+                    "noc": "ARG",
+                    "name": "Daiana OCAMPO",
+                    "order": 40,
+                    "results": {
+                        "position": "",
+                        "mark": "2:32:02",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1904186",
+                    "noc": "ESP",
+                    "name": "Esther NAVARRETE",
+                    "order": 41,
+                    "results": {
+                        "position": "",
+                        "mark": "2:32:07",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1926111",
+                    "noc": "BRN",
+                    "name": "Rose CHELIMO",
+                    "order": 42,
+                    "results": {
+                        "position": "",
+                        "mark": "2:32:08",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981046",
+                    "noc": "UGA",
+                    "name": "Rebecca CHEPTEGEI",
+                    "order": 43,
+                    "results": {
+                        "position": "",
+                        "mark": "2:32:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981069",
+                    "noc": "RSA",
+                    "name": "Gerda STEYN",
+                    "order": 44,
+                    "results": {
+                        "position": "",
+                        "mark": "2:32:51",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924413",
+                    "noc": "GBR",
+                    "name": "Clara EVANS",
+                    "order": 45,
+                    "results": {
+                        "position": "",
+                        "mark": "2:33:01",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1956228",
+                    "noc": "MGL",
+                    "name": "Khishigsaikhan GALBADRAKH",
+                    "order": 46,
+                    "results": {
+                        "position": "",
+                        "mark": "2:33:26",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1956216",
+                    "noc": "MGL",
+                    "name": "Munkhzaya BAYARTSOGT",
+                    "order": 47,
+                    "results": {
+                        "position": "",
+                        "mark": "2:33:27",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1564737",
+                    "noc": "ISR",
+                    "name": "Maor TIYOURI",
+                    "order": 48,
+                    "results": {
+                        "position": "",
+                        "mark": "2:33:37",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1972127",
+                    "noc": "NED",
+                    "name": "Anne LUIJTEN",
+                    "order": 49,
+                    "results": {
+                        "position": "",
+                        "mark": "2:33:42",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1921642",
+                    "noc": "JPN",
+                    "name": "ICHIYAMA Mao",
+                    "order": 50,
+                    "results": {
+                        "position": "",
+                        "mark": "2:34:13",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1569201",
+                    "noc": "SWE",
+                    "name": "Carolina WIKSTROM",
+                    "order": 51,
+                    "results": {
+                        "position": "",
+                        "mark": "2:34:20",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1933789",
+                    "noc": "ECU",
+                    "name": "Mary Zenaida GRANJA",
+                    "order": 52,
+                    "results": {
+                        "position": "",
+                        "mark": "2:34:34",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1552020",
+                    "noc": "MRI",
+                    "name": "Marie PERRIER",
+                    "order": 53,
+                    "results": {
+                        "position": "",
+                        "mark": "2:34:56",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1563791",
+                    "noc": "AUT",
+                    "name": "Julia MAYER",
+                    "order": 54,
+                    "results": {
+                        "position": "",
+                        "mark": "2:35:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1935374",
+                    "noc": "PER",
+                    "name": "Gladys TEJEDA",
+                    "order": 55,
+                    "results": {
+                        "position": "",
+                        "mark": "2:35:36",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1938804",
+                    "noc": "POR",
+                    "name": "Susana SANTOS",
+                    "order": 56,
+                    "results": {
+                        "position": "",
+                        "mark": "2:35:57",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1950099",
+                    "noc": "ERI",
+                    "name": "Dolshi TESFU",
+                    "order": 57,
+                    "results": {
+                        "position": "",
+                        "mark": "2:36:30",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1919120",
+                    "noc": "CHN",
+                    "name": "ZHANG Deshun",
+                    "order": 58,
+                    "results": {
+                        "position": "",
+                        "mark": "2:36:47",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1926703",
+                    "noc": "NZL",
+                    "name": "Camille FRENCH",
+                    "order": 59,
+                    "results": {
+                        "position": "",
+                        "mark": "2:37:21",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1930110",
+                    "noc": "ECU",
+                    "name": "Silvia Patricia ORTIZ MOROCHO",
+                    "order": 60,
+                    "results": {
+                        "position": "",
+                        "mark": "2:37:23",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1935387",
+                    "noc": "PER",
+                    "name": "Luz Mery ROJAS",
+                    "order": 61,
+                    "results": {
+                        "position": "",
+                        "mark": "2:37:24",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1536032",
+                    "noc": "MEX",
+                    "name": "Margarita HERNANDEZ FLORES",
+                    "order": 62,
+                    "results": {
+                        "position": "",
+                        "mark": "2:37:24",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1573138",
+                    "noc": "POL",
+                    "name": "Angelika MACH",
+                    "order": 63,
+                    "results": {
+                        "position": "",
+                        "mark": "2:37:56",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1904364",
+                    "noc": "FIN",
+                    "name": "Camilla RICHARDSSON",
+                    "order": 64,
+                    "results": {
+                        "position": "",
+                        "mark": "2:38:02",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1892157",
+                    "noc": "CZE",
+                    "name": "Moira STEWARTOVA",
+                    "order": 65,
+                    "results": {
+                        "position": "",
+                        "mark": "2:38:07",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1552313",
+                    "noc": "ITA",
+                    "name": "Giovanna EPIS",
+                    "order": 66,
+                    "results": {
+                        "position": "",
+                        "mark": "2:38:26",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1548262",
+                    "noc": "NAM",
+                    "name": "Helalia JOHANNES",
+                    "order": 67,
+                    "results": {
+                        "position": "",
+                        "mark": "2:38:36",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1548516",
+                    "noc": "UGA",
+                    "name": "Mercyline CHELANGAT",
+                    "order": 68,
+                    "results": {
+                        "position": "",
+                        "mark": "2:39:40",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1911923",
+                    "noc": "FRA",
+                    "name": "Meline ROLLIN",
+                    "order": 69,
+                    "results": {
+                        "position": "",
+                        "mark": "2:40:17",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1922195",
+                    "noc": "CRO",
+                    "name": "Bojana BJELJAC",
+                    "order": 70,
+                    "results": {
+                        "position": "",
+                        "mark": "2:41:13",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1919129",
+                    "noc": "CHN",
+                    "name": "XIA Yuyu",
+                    "order": 71,
+                    "results": {
+                        "position": "",
+                        "mark": "2:42:10",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1930032",
+                    "noc": "ECU",
+                    "name": "Rosa Alva CHACHA",
+                    "order": 72,
+                    "results": {
+                        "position": "",
+                        "mark": "2:42:14",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1910786",
+                    "noc": "FRA",
+                    "name": "Melody JULIEN",
+                    "order": 73,
+                    "results": {
+                        "position": "",
+                        "mark": "2:42:32",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1535512",
+                    "noc": "COL",
+                    "name": "Angie ORJUELA",
+                    "order": 74,
+                    "results": {
+                        "position": "",
+                        "mark": "2:42:57",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1919121",
+                    "noc": "CHN",
+                    "name": "BAI Li",
+                    "order": 75,
+                    "results": {
+                        "position": "",
+                        "mark": "2:44:44",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1879776",
+                    "noc": "RWA",
+                    "name": "Clementine MUKANDANGA",
+                    "order": 76,
+                    "results": {
+                        "position": "",
+                        "mark": "2:45:40",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924425",
+                    "noc": "GBR",
+                    "name": "Rose HARVEY",
+                    "order": 77,
+                    "results": {
+                        "position": "",
+                        "mark": "2:51:03",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924081",
+                    "noc": "NEP",
+                    "name": "Shantoshi SHRESTHA",
+                    "order": 78,
+                    "results": {
+                        "position": "",
+                        "mark": "2:55:06",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "3048371",
+                    "noc": "BHU",
+                    "name": "Kinzang LHAMO",
+                    "order": 79,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1922216",
+                    "noc": "CRO",
+                    "name": "Matea PARLOV KOSTRO",
+                    "order": 80,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1556680",
+                    "noc": "MAR",
+                    "name": "Rahma TAHIRI",
+                    "order": 81,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1895572",
+                    "noc": "BEL",
+                    "name": "Chloe HERBIET",
+                    "order": 82,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1901503",
+                    "noc": "ETH",
+                    "name": "Megertu ALEMU",
+                    "order": 83,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1924494",
+                    "noc": "GBR",
+                    "name": "Calli HAUGER-THACKERY",
+                    "order": 84,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1920049",
+                    "noc": "ZIM",
+                    "name": "Rutendo Joan NYAHORA",
+                    "order": 85,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1920348",
+                    "noc": "GER",
+                    "name": "Melat Yisak KEJETA",
+                    "order": 86,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1940310",
+                    "noc": "TAN",
+                    "name": "Jackline SAKILU",
+                    "order": 87,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1538939",
+                    "noc": "ROU",
+                    "name": "Joan Chelimo MELLY",
+                    "order": 88,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1939857",
+                    "noc": "AUS",
+                    "name": "Sinead DIVER",
+                    "order": 89,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                },
+                {
+                    "code": "1965234",
+                    "noc": "USA",
+                    "name": "Fiona O\u0027KEEFFE",
+                    "order": 90,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": "DNF"
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/athletics/women-s-marathon/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Handball",
+            "eventUnitName": "Men\u0027s Bronze Medal Match",
+            "id": "HBLMTEAM7-------------FNL-000200--",
+            "disciplineCode": "HBL",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "HBLMTEAM7-------------------------",
+            "eventName": "Men",
+            "phaseId": "HBLMTEAM7-------------FNL---------",
+            "phaseName": "Men\u0027s Finals",
+            "disciplineId": "HBL-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T09:00:00+02:00",
+            "endDate": "2024-08-11T11:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "LIL",
+            "venueDescription": "Pierre Mauroy Stadium",
+            "location": "LIL",
+            "locationDescription": "Pierre Mauroy Stadium",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "37",
+            "sessionCode": "HBL45",
+            "competitors": [
+                {
+                    "code": "HBLMTEAM7---ESP01",
+                    "noc": "ESP",
+                    "name": "Spain",
+                    "order": 0,
+                    "results": {
+                        "position": "3",
+                        "mark": "23",
+                        "winnerLoserTie": "W",
+                        "medalType": "ME_BRONZE",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "HBLMTEAM7---SLO01",
+                    "noc": "SLO",
+                    "name": "Slovenia",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "22",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/handball/men/fnl-000200--"
+            }
+        },
+        {
+            "disciplineName": "Water Polo",
+            "eventUnitName": "Men\u0027s Classification 5th-6th",
+            "id": "WPOMTEAM7-------------FNL-000300--",
+            "disciplineCode": "WPO",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WPOMTEAM7-------------------------",
+            "eventName": "Men",
+            "phaseId": "WPOMTEAM7-------------FNL---------",
+            "phaseName": "Men\u0027s Finals",
+            "disciplineId": "WPO-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T09:00:00+02:00",
+            "endDate": "2024-08-11T10:25:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "DEF",
+            "venueDescription": "Paris La Defense Arena",
+            "location": "DEF",
+            "locationDescription": "Paris La Defense Arena",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "40",
+            "sessionCode": "WPO35",
+            "competitors": [
+                {
+                    "code": "WPOMTEAM7---GRE01",
+                    "noc": "GRE",
+                    "name": "Greece",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "15",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "WPOMTEAM7---ESP01",
+                    "noc": "ESP",
+                    "name": "Spain",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "13",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/water-polo/men/fnl-000300--"
+            }
+        },
+        {
+            "disciplineName": "Water Polo",
+            "eventUnitName": "Men\u0027s Bronze Medal Match",
+            "id": "WPOMTEAM7-------------FNL-000200--",
+            "disciplineCode": "WPO",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WPOMTEAM7-------------------------",
+            "eventName": "Men",
+            "phaseId": "WPOMTEAM7-------------FNL---------",
+            "phaseName": "Men\u0027s Finals",
+            "disciplineId": "WPO-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T10:35:00+02:00",
+            "endDate": "2024-08-11T12:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "DEF",
+            "venueDescription": "Paris La Defense Arena",
+            "location": "DEF",
+            "locationDescription": "Paris La Defense Arena",
+            "status": "RUNNING",
+            "statusDescription": "Running",
+            "medalFlag": 3,
+            "liveFlag": true,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "41",
+            "sessionCode": "WPO35",
+            "competitors": [
+                {
+                    "code": "WPOMTEAM7---USA01",
+                    "noc": "USA",
+                    "name": "United States",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "7",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "WPOMTEAM7---HUN01",
+                    "noc": "HUN",
+                    "name": "Hungary",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "8",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/water-polo/men/fnl-000200--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Omnium, Scratch Race 1/4",
+            "id": "CTRWOMNIUM------------SCR-000100--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "SCR-",
+            "eventId": "CTRWOMNIUM------------------------",
+            "eventName": "Women\u0027s Omnium",
+            "phaseId": "CTRWOMNIUM------------SCR---------",
+            "phaseName": "Women\u0027s Omnium, Scratch Race 1/4",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:00:00+02:00",
+            "endDate": "2024-08-11T11:22:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 1,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [
+                {
+                    "code": "1955106",
+                    "noc": "USA",
+                    "name": "Jennifer VALENTE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1966688",
+                    "noc": "CAN",
+                    "name": "Maggie COLES-LYSTER",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1940254",
+                    "noc": "AUS",
+                    "name": "Georgia BAKER",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1969173",
+                    "noc": "NED",
+                    "name": "Maike van der DUIN",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1945080",
+                    "noc": "NZL",
+                    "name": "Ally WOLLASTON",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1879057",
+                    "noc": "DEN",
+                    "name": "Amalie DIDERIKSEN",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1943995",
+                    "noc": "LTU",
+                    "name": "Olivija BALEISYTE",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1878415",
+                    "noc": "NOR",
+                    "name": "Anita STENBERG",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977860",
+                    "noc": "SUI",
+                    "name": "Aline SEITZ",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1923053",
+                    "noc": "ITA",
+                    "name": "Letizia PATERNOSTER",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1897256",
+                    "noc": "EGY",
+                    "name": "Ebtissam ZAYED",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1920670",
+                    "noc": "CHN",
+                    "name": "LIU Jiali",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1933819",
+                    "noc": "POR",
+                    "name": "Maria MARTINS",
+                    "order": 12,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1572953",
+                    "noc": "POL",
+                    "name": "Daria PIKULIK",
+                    "order": 13,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1539974",
+                    "noc": "IRL",
+                    "name": "Lara GILLESPIE",
+                    "order": 14,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1945749",
+                    "noc": "JPN",
+                    "name": "KAJIHARA Yumi",
+                    "order": 15,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1903120",
+                    "noc": "BEL",
+                    "name": "Lotte KOPECKY",
+                    "order": 16,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1889726",
+                    "noc": "GER",
+                    "name": "Franziska BRAUSSE",
+                    "order": 17,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1957126",
+                    "noc": "HKG",
+                    "name": "LEE Sze Wing",
+                    "order": 18,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1551805",
+                    "noc": "MEX",
+                    "name": "Victoria VELASCO FUENTES",
+                    "order": 19,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1895673",
+                    "noc": "FRA",
+                    "name": "Valentine FORTIN",
+                    "order": 20,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1912519",
+                    "noc": "GBR",
+                    "name": "Neah EVANS",
+                    "order": 21,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-omnium/scr-000100--"
+            }
+        },
+        {
+            "disciplineName": "Modern Pentathlon",
+            "eventUnitName": "Women\u0027s Individual, Final, Riding Show Jumping",
+            "id": "MPNWINDIVID-----------FNL-0001EQ--",
+            "disciplineCode": "MPN",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "MPNWINDIVID-----------------------",
+            "eventName": "Women\u0027s Individual",
+            "phaseId": "MPNWINDIVID-----------FNL---------",
+            "phaseName": "Women\u0027s Individual Final",
+            "disciplineId": "MPN-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:00:00+02:00",
+            "endDate": "2024-08-11T11:35:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "VER",
+            "venueDescription": "Ch\u00E2teau de Versailles",
+            "location": "VER",
+            "locationDescription": "Ch\u00E2teau de Versailles",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "MPN05",
+            "groupId": "MPN05_MPNWINDIVID-----------FNL---------",
+            "competitors": [
+                {
+                    "code": "1936619",
+                    "noc": "HUN",
+                    "name": "Michelle GULYAS",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1786902",
+                    "noc": "KOR",
+                    "name": "SEONG Seungmin",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1914069",
+                    "noc": "CHN",
+                    "name": "ZHANG Mingyu",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977670",
+                    "noc": "SUI",
+                    "name": "Anna JURT",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924203",
+                    "noc": "LTU",
+                    "name": "Gintare VENCKAUSKAITE",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1553029",
+                    "noc": "ITA",
+                    "name": "Alice SOTERO",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1550551",
+                    "noc": "GER",
+                    "name": "Annika ZILLEKENS",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1936633",
+                    "noc": "HUN",
+                    "name": "Blanka GUZI",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "300",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1545116",
+                    "noc": "FRA",
+                    "name": "Elodie CLOUVEL",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1932863",
+                    "noc": "EGY",
+                    "name": "Malak ISMAIL",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1925763",
+                    "noc": "CZE",
+                    "name": "Lucie HLAVACKOVA",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1566624",
+                    "noc": "TUR",
+                    "name": "Ilke OZYUKSEL",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924212",
+                    "noc": "LTU",
+                    "name": "Laura ASADAUSKAITE",
+                    "order": 12,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1553021",
+                    "noc": "ITA",
+                    "name": "Elena MICHELI",
+                    "order": 13,
+                    "results": {
+                        "position": "",
+                        "mark": "293",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1896126",
+                    "noc": "GBR",
+                    "name": "Kerenza BRYSON",
+                    "order": 14,
+                    "results": {
+                        "position": "",
+                        "mark": "286",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1786890",
+                    "noc": "KOR",
+                    "name": "KIM Sunwoo",
+                    "order": 15,
+                    "results": {
+                        "position": "",
+                        "mark": "286",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1545115",
+                    "noc": "FRA",
+                    "name": "Marie OTEIZA",
+                    "order": 16,
+                    "results": {
+                        "position": "",
+                        "mark": "0",
+                        "medalType": "",
+                        "irm": "EL"
+                    }
+                },
+                {
+                    "code": "1942902",
+                    "noc": "ESP",
+                    "name": "Laura HEREDIA",
+                    "order": 17,
+                    "results": {
+                        "position": "",
+                        "mark": "0",
+                        "medalType": "",
+                        "irm": "EL"
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001eq--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 65kg Repechage",
+            "id": "WREMFS65KG------------REP2000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREMFS65KG------------------------",
+            "eventName": "Men\u0027s Freestyle 65kg",
+            "phaseId": "WREMFS65KG------------REP2--------",
+            "phaseName": "MFS 65kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:00:00+02:00",
+            "endDate": "2024-08-11T11:10:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": true,
+            "startText": "",
+            "order": 1,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "334",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "resCode": "VSU1",
+            "competitors": [
+                {
+                    "code": "2008688",
+                    "noc": "MDA",
+                    "name": "Maxim SACULTAN",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "4",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1537188",
+                    "noc": "PUR",
+                    "name": "Sebastian C RIVERA",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "15",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-65kg/rep2000100--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 65kg Repechage",
+            "id": "WREMFS65KG------------REP2000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREMFS65KG------------------------",
+            "eventName": "Men\u0027s Freestyle 65kg",
+            "phaseId": "WREMFS65KG------------REP2--------",
+            "phaseName": "MFS 65kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:10:00+02:00",
+            "endDate": "2024-08-11T11:20:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "2nd on Mat B",
+            "order": 2,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "335",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "resCode": "VIN",
+            "competitors": [
+                {
+                    "code": "1955473",
+                    "noc": "USA",
+                    "name": "Zain Allen RETHERFORD",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "0",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1559387",
+                    "noc": "ALB",
+                    "name": "Islam DUDAEV",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "0",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-65kg/rep2000200--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 97kg Repechage",
+            "id": "WREMFS97KG------------REP2000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREMFS97KG------------------------",
+            "eventName": "Men\u0027s Freestyle 97kg",
+            "phaseId": "WREMFS97KG------------REP2--------",
+            "phaseName": "MFS 97kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:20:00+02:00",
+            "endDate": "2024-08-11T11:30:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "3rd on Mat B",
+            "order": 3,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "336",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "resCode": "VPO1",
+            "competitors": [
+                {
+                    "code": "1941516",
+                    "noc": "RSA",
+                    "name": "Nicolaas Johannes de LANGE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "3",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1572025",
+                    "noc": "UKR",
+                    "name": "Murazi McHEDLIDZE",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "5",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-97kg/rep2000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Semifinals - Race 1",
+            "id": "CTRWSPRINT------------SFNL000001--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "SFNL",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------SFNL--------",
+            "phaseName": "Women\u0027s Sprint, Semifinals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:22:00+02:00",
+            "endDate": "2024-08-11T11:29:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 6,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------SFNL--------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/sfnl--------"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Men\u0027s Keirin, Quarterfinals",
+            "id": "CTRMKEIRIN------------QFNL--------",
+            "disciplineCode": "CTR",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "QFNL",
+            "eventId": "CTRMKEIRIN------------------------",
+            "eventName": "Men\u0027s Keirin",
+            "phaseId": "CTRMKEIRIN------------QFNL--------",
+            "phaseName": "Men\u0027s Keirin, Quarterfinals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:29:00+02:00",
+            "endDate": "2024-08-11T11:50:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 9,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "RUNNING",
+            "statusDescription": "Running",
+            "medalFlag": 0,
+            "liveFlag": true,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [
+                {
+                    "code": "1543498",
+                    "noc": "COL",
+                    "name": "Kevin Santiago QUINTERO CHAVARRO",
+                    "order": 0
+                },
+                {
+                    "code": "1543501",
+                    "noc": "COL",
+                    "name": "Cristian David ORTEGA FONTALVO",
+                    "order": 1
+                },
+                {
+                    "code": "1550228",
+                    "noc": "MAS",
+                    "name": "Muhammad Shah Firdaus SAHROM",
+                    "order": 2
+                },
+                {
+                    "code": "1572958",
+                    "noc": "POL",
+                    "name": "Mateusz RUDYK",
+                    "order": 3
+                },
+                {
+                    "code": "1889773",
+                    "noc": "GER",
+                    "name": "Luca SPIEGEL",
+                    "order": 4
+                },
+                {
+                    "code": "1898251",
+                    "noc": "ISR",
+                    "name": "Mikhail YAKOVLEV",
+                    "order": 5
+                },
+                {
+                    "code": "1912515",
+                    "noc": "GBR",
+                    "name": "Jack CARLIN",
+                    "order": 6
+                },
+                {
+                    "code": "1912568",
+                    "noc": "GBR",
+                    "name": "Hamish TURNBULL",
+                    "order": 7
+                },
+                {
+                    "code": "1912786",
+                    "noc": "TTO",
+                    "name": "Nicholas PAUL",
+                    "order": 8
+                },
+                {
+                    "code": "1940262",
+                    "noc": "AUS",
+                    "name": "Matthew GLAETZER",
+                    "order": 9
+                },
+                {
+                    "code": "1940263",
+                    "noc": "AUS",
+                    "name": "Matthew RICHARDSON",
+                    "order": 10
+                },
+                {
+                    "code": "1945073",
+                    "noc": "NZL",
+                    "name": "Sam DAKIN",
+                    "order": 11
+                },
+                {
+                    "code": "1945738",
+                    "noc": "JPN",
+                    "name": "OTA Kaiya",
+                    "order": 12
+                },
+                {
+                    "code": "1945744",
+                    "noc": "JPN",
+                    "name": "NAKANO Shinji",
+                    "order": 13
+                },
+                {
+                    "code": "1966678",
+                    "noc": "CAN",
+                    "name": "James HEDGCOCK",
+                    "order": 14
+                },
+                {
+                    "code": "1966697",
+                    "noc": "CAN",
+                    "name": "Nick WAMMES",
+                    "order": 15
+                },
+                {
+                    "code": "1969182",
+                    "noc": "NED",
+                    "name": "Harrie LAVREYSEN",
+                    "order": 16
+                },
+                {
+                    "code": "1969203",
+                    "noc": "NED",
+                    "name": "Jeffrey HOOGLAND",
+                    "order": 17
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/men-s-keirin/qfnl--------"
+            }
+        },
+        {
+            "disciplineName": "Basketball",
+            "eventUnitName": "Women\u0027s Bronze Medal Game",
+            "id": "BKBWTEAM5-------------FNL-000200--",
+            "disciplineCode": "BKB",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "BKBWTEAM5-------------------------",
+            "eventName": "Women",
+            "phaseId": "BKBWTEAM5-------------FNL---------",
+            "phaseName": "Women\u0027s Finals",
+            "disciplineId": "BKB-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:30:00+02:00",
+            "endDate": "2024-08-11T13:15:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "BCY",
+            "venueDescription": "Bercy Arena",
+            "location": "BCY",
+            "locationDescription": "Bercy Arena",
+            "status": "RUNNING",
+            "statusDescription": "Running",
+            "medalFlag": 3,
+            "liveFlag": true,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "51",
+            "sessionCode": "BKB42",
+            "competitors": [
+                {
+                    "code": "BKBWTEAM5---BEL01",
+                    "noc": "BEL",
+                    "name": "Belgium",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "11",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "BKBWTEAM5---AUS01",
+                    "noc": "AUS",
+                    "name": "Australia",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "8",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/basketball/women/fnl-000200--"
+            }
+        },
+        {
+            "disciplineName": "Weightlifting",
+            "eventUnitName": "Women\u0027s \u002B81kg",
+            "id": "WLFWO81KG-------------FNL-000100--",
+            "disciplineCode": "WLF",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WLFWO81KG-------------------------",
+            "eventName": "Women\u0027s \u002B81kg",
+            "phaseId": "WLFWO81KG-------------FNL---------",
+            "phaseName": "Women\u0027s \u002B81kg",
+            "disciplineId": "WLF-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:30:00+02:00",
+            "endDate": "2024-08-11T14:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "SP6",
+            "venueDescription": "South Paris Arena 6",
+            "location": "SP6",
+            "locationDescription": "South Paris Arena 6",
+            "status": "GETTING_READY",
+            "statusDescription": "Getting Ready",
+            "medalFlag": 1,
+            "liveFlag": true,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "WLF10",
+            "competitors": [
+                {
+                    "code": "1894414",
+                    "noc": "KOR",
+                    "name": "PARK Hyejeong",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1918376",
+                    "noc": "CHN",
+                    "name": "LI Wenwen",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1940312",
+                    "noc": "ECU",
+                    "name": "Lisseth Betzaida AYOVI CABEZAS",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1898049",
+                    "noc": "THA",
+                    "name": "Duangaksorn CHAIDEE",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1562861",
+                    "noc": "EGY",
+                    "name": "Halima ABBAS",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1941330",
+                    "noc": "INA",
+                    "name": "Nurul AKMAL",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1901298",
+                    "noc": "VEN",
+                    "name": "Naryury PEREZ REVERON",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1928585",
+                    "noc": "DOM",
+                    "name": "Crismery SANTANA PEGUERO",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1551355",
+                    "noc": "UZB",
+                    "name": "Tursunoy JABBOROVA",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1917156",
+                    "noc": "USA",
+                    "name": "Mary THEISEN LAPPEN",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1544179",
+                    "noc": "GBR",
+                    "name": "Emily CAMPBELL",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1961709",
+                    "noc": "SAM",
+                    "name": "Iuniarra SIPAIA",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/weightlifting/women-s--plus-81kg/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 97kg Repechage",
+            "id": "WREMFS97KG------------REP2000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREMFS97KG------------------------",
+            "eventName": "Men\u0027s Freestyle 97kg",
+            "phaseId": "WREMFS97KG------------REP2--------",
+            "phaseName": "MFS 97kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:30:00+02:00",
+            "endDate": "2024-08-11T11:40:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "4th on Mat B",
+            "order": 4,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "337",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "resCode": "VPO1",
+            "competitors": [
+                {
+                    "code": "1543095",
+                    "noc": "IRI",
+                    "name": "Amirali AZARPIRA",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "6",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1958743",
+                    "noc": "KAZ",
+                    "name": "Alisher YERGALI",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "1",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-97kg/rep2000200--"
+            }
+        },
+        {
+            "disciplineName": "Modern Pentathlon",
+            "eventUnitName": "Women\u0027s Individual, Final, Fencing Bonus Round",
+            "id": "MPNWINDIVID-----------FNL-0001FE--",
+            "disciplineCode": "MPN",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "MPNWINDIVID-----------------------",
+            "eventName": "Women\u0027s Individual",
+            "phaseId": "MPNWINDIVID-----------FNL---------",
+            "phaseName": "Women\u0027s Individual Final",
+            "disciplineId": "MPN-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:40:00+02:00",
+            "endDate": "2024-08-11T12:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "VER",
+            "venueDescription": "Ch\u00E2teau de Versailles",
+            "location": "VER",
+            "locationDescription": "Ch\u00E2teau de Versailles",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "MPN05",
+            "groupId": "MPN05_MPNWINDIVID-----------FNL---------",
+            "competitors": [
+                {
+                    "code": "1545116",
+                    "noc": "FRA",
+                    "name": "Elodie CLOUVEL",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1936619",
+                    "noc": "HUN",
+                    "name": "Michelle GULYAS",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1896126",
+                    "noc": "GBR",
+                    "name": "Kerenza BRYSON",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1545115",
+                    "noc": "FRA",
+                    "name": "Marie OTEIZA",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1914069",
+                    "noc": "CHN",
+                    "name": "ZHANG Mingyu",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1786902",
+                    "noc": "KOR",
+                    "name": "SEONG Seungmin",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1553021",
+                    "noc": "ITA",
+                    "name": "Elena MICHELI",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1786890",
+                    "noc": "KOR",
+                    "name": "KIM Sunwoo",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1932863",
+                    "noc": "EGY",
+                    "name": "Malak ISMAIL",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1942902",
+                    "noc": "ESP",
+                    "name": "Laura HEREDIA",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1550551",
+                    "noc": "GER",
+                    "name": "Annika ZILLEKENS",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977670",
+                    "noc": "SUI",
+                    "name": "Anna JURT",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1925763",
+                    "noc": "CZE",
+                    "name": "Lucie HLAVACKOVA",
+                    "order": 12,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924212",
+                    "noc": "LTU",
+                    "name": "Laura ASADAUSKAITE",
+                    "order": 13,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1566624",
+                    "noc": "TUR",
+                    "name": "Ilke OZYUKSEL",
+                    "order": 14,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1924203",
+                    "noc": "LTU",
+                    "name": "Gintare VENCKAUSKAITE",
+                    "order": 15,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1936633",
+                    "noc": "HUN",
+                    "name": "Blanka GUZI",
+                    "order": 16,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1553029",
+                    "noc": "ITA",
+                    "name": "Alice SOTERO",
+                    "order": 17,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001fe--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Women\u0027s Freestyle 76kg Repechage",
+            "id": "WREWFS76KG------------REP2000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREWFS76KG------------------------",
+            "eventName": "Women\u0027s Freestyle 76kg",
+            "phaseId": "WREWFS76KG------------REP2--------",
+            "phaseName": "WFS 76kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:40:00+02:00",
+            "endDate": "2024-08-11T11:50:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "5th on Mat B",
+            "order": 5,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "FINISHED",
+            "statusDescription": "Finished",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "338",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "resCode": "VIN",
+            "competitors": [
+                {
+                    "code": "1540275",
+                    "noc": "ROU",
+                    "name": "Catalina AXENTE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "winnerLoserTie": "L",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1571936",
+                    "noc": "CUB",
+                    "name": "Milaimy de la Carid. MARIN POTRILLE",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "winnerLoserTie": "W",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/women-s-freestyle-76kg/rep2000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Semifinals - Race 2",
+            "id": "CTRWSPRINT------------SFNL000002--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "SFNL",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------SFNL--------",
+            "phaseName": "Women\u0027s Sprint, Semifinals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:50:00+02:00",
+            "endDate": "2024-08-11T11:57:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 13,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------SFNL--------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/sfnl--------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Women\u0027s Freestyle 76kg Repechage",
+            "id": "WREWFS76KG------------REP2000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "REP2",
+            "eventId": "WREWFS76KG------------------------",
+            "eventName": "Women\u0027s Freestyle 76kg",
+            "phaseId": "WREWFS76KG------------REP2--------",
+            "phaseName": "WFS 76kg Repechage",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:50:00+02:00",
+            "endDate": "2024-08-11T12:00:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "6th on Mat B",
+            "order": 6,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "RUNNING",
+            "statusDescription": "Running",
+            "medalFlag": 0,
+            "liveFlag": true,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "339",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1960221",
+                    "noc": "ECU",
+                    "name": "Genesis Rosangela REASCO VALDEZ",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "3",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1570422",
+                    "noc": "TUR",
+                    "name": "Yasemin ADAR YIGIT",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "0",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/women-s-freestyle-76kg/rep2000200--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Omnium, Tempo Race 2/4",
+            "id": "CTRWOMNIUM------------TEMP000100--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "TEMP",
+            "eventId": "CTRWOMNIUM------------------------",
+            "eventName": "Women\u0027s Omnium",
+            "phaseId": "CTRWOMNIUM------------TEMP--------",
+            "phaseName": "Women\u0027s Omnium, Tempo Race 2/4",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T11:57:00+02:00",
+            "endDate": "2024-08-11T12:18:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 16,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [
+                {
+                    "code": "1955106",
+                    "noc": "USA",
+                    "name": "Jennifer VALENTE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1940254",
+                    "noc": "AUS",
+                    "name": "Georgia BAKER",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1945080",
+                    "noc": "NZL",
+                    "name": "Ally WOLLASTON",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1943995",
+                    "noc": "LTU",
+                    "name": "Olivija BALEISYTE",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1977860",
+                    "noc": "SUI",
+                    "name": "Aline SEITZ",
+                    "order": 4,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1897256",
+                    "noc": "EGY",
+                    "name": "Ebtissam ZAYED",
+                    "order": 5,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1933819",
+                    "noc": "POR",
+                    "name": "Maria MARTINS",
+                    "order": 6,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1539974",
+                    "noc": "IRL",
+                    "name": "Lara GILLESPIE",
+                    "order": 7,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1903120",
+                    "noc": "BEL",
+                    "name": "Lotte KOPECKY",
+                    "order": 8,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1957126",
+                    "noc": "HKG",
+                    "name": "LEE Sze Wing",
+                    "order": 9,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1895673",
+                    "noc": "FRA",
+                    "name": "Valentine FORTIN",
+                    "order": 10,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1966688",
+                    "noc": "CAN",
+                    "name": "Maggie COLES-LYSTER",
+                    "order": 11,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1969173",
+                    "noc": "NED",
+                    "name": "Maike van der DUIN",
+                    "order": 12,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1879057",
+                    "noc": "DEN",
+                    "name": "Amalie DIDERIKSEN",
+                    "order": 13,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1878415",
+                    "noc": "NOR",
+                    "name": "Anita STENBERG",
+                    "order": 14,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1923053",
+                    "noc": "ITA",
+                    "name": "Letizia PATERNOSTER",
+                    "order": 15,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1920670",
+                    "noc": "CHN",
+                    "name": "LIU Jiali",
+                    "order": 16,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1572953",
+                    "noc": "POL",
+                    "name": "Daria PIKULIK",
+                    "order": 17,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1945749",
+                    "noc": "JPN",
+                    "name": "KAJIHARA Yumi",
+                    "order": 18,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1889726",
+                    "noc": "GER",
+                    "name": "Franziska BRAUSSE",
+                    "order": 19,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1551805",
+                    "noc": "MEX",
+                    "name": "Victoria VELASCO FUENTES",
+                    "order": 20,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1912519",
+                    "noc": "GBR",
+                    "name": "Neah EVANS",
+                    "order": 21,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-omnium/temp000100--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 65kg Bronze Medal Match",
+            "id": "WREMFS65KG------------REPF000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREMFS65KG------------------------",
+            "eventName": "Men\u0027s Freestyle 65kg",
+            "phaseId": "WREMFS65KG------------REPF--------",
+            "phaseName": "MFS 65kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:00:00+02:00",
+            "endDate": "2024-08-11T12:10:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "7th on Mat B",
+            "order": 7,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "340",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1537188",
+                    "noc": "PUR",
+                    "name": "Sebastian C RIVERA",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1921673",
+                    "noc": "MGL",
+                    "name": "Tulga TUMUR OCHIR",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-65kg/repf000100--"
+            }
+        },
+        {
+            "disciplineName": "Modern Pentathlon",
+            "eventUnitName": "Women\u0027s Individual, Final, Swimming 200m Freestyle",
+            "id": "MPNWINDIVID-----------FNL-0001SW00",
+            "disciplineCode": "MPN",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "MPNWINDIVID-----------------------",
+            "eventName": "Women\u0027s Individual",
+            "phaseId": "MPNWINDIVID-----------FNL---------",
+            "phaseName": "Women\u0027s Individual Final",
+            "disciplineId": "MPN-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:10:00+02:00",
+            "endDate": "2024-08-11T12:25:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "VER",
+            "venueDescription": "Ch\u00E2teau de Versailles",
+            "location": "VER",
+            "locationDescription": "Ch\u00E2teau de Versailles",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "MPN05",
+            "groupId": "MPN05_MPNWINDIVID-----------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001sw00"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 65kg Bronze Medal Match",
+            "id": "WREMFS65KG------------REPF000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREMFS65KG------------------------",
+            "eventName": "Men\u0027s Freestyle 65kg",
+            "phaseId": "WREMFS65KG------------REPF--------",
+            "phaseName": "MFS 65kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:10:00+02:00",
+            "endDate": "2024-08-11T12:20:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "8th on Mat B",
+            "order": 8,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "341",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1559387",
+                    "noc": "ALB",
+                    "name": "Islam DUDAEV",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1913875",
+                    "noc": "HUN",
+                    "name": "Iszmail MUSZUKAJEV",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-65kg/repf000200--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Semifinals - Decider",
+            "id": "CTRWSPRINT------------SFNL000003--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "SFNL",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------SFNL--------",
+            "phaseName": "Women\u0027s Sprint, Semifinals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:18:00+02:00",
+            "endDate": "2024-08-11T12:25:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 18,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------SFNL--------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/sfnl--------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 65kg Final",
+            "id": "WREMFS65KG------------FNL-000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WREMFS65KG------------------------",
+            "eventName": "Men\u0027s Freestyle 65kg",
+            "phaseId": "WREMFS65KG------------FNL---------",
+            "phaseName": "MFS 65kg Final",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:20:00+02:00",
+            "endDate": "2024-08-11T12:30:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "9th on Mat B",
+            "order": 9,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "342",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1939700",
+                    "noc": "JPN",
+                    "name": "KIYOOKA Kotaro",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1544830",
+                    "noc": "IRI",
+                    "name": "Rahman AMOUZADKHALILI",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-65kg/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Final for 5th-8th Places",
+            "id": "CTRWSPRINT------------FNL-000300--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------FNL---------",
+            "phaseName": "Women\u0027s Sprint, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:25:00+02:00",
+            "endDate": "2024-08-11T12:29:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 22,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "",
+            "competitors": [
+                {
+                    "code": "CTRWSPRINT--CAN00",
+                    "noc": "CAN",
+                    "name": "Canada",
+                    "order": 0
+                },
+                {
+                    "code": "CTRWSPRINT--COL01",
+                    "noc": "COL",
+                    "name": "Colombia",
+                    "order": 1
+                },
+                {
+                    "code": "CTRWSPRINT--GBR02",
+                    "noc": "GBR",
+                    "name": "Great Britain",
+                    "order": 2
+                },
+                {
+                    "code": "CTRWSPRINT--GER03",
+                    "noc": "GER",
+                    "name": "Germany",
+                    "order": 3
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/fnl-000300--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Men\u0027s Keirin, Semifinals",
+            "id": "CTRMKEIRIN------------SFNL--------",
+            "disciplineCode": "CTR",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "SFNL",
+            "eventId": "CTRMKEIRIN------------------------",
+            "eventName": "Men\u0027s Keirin",
+            "phaseId": "CTRMKEIRIN------------SFNL--------",
+            "phaseName": "Men\u0027s Keirin, Semifinals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:29:00+02:00",
+            "endDate": "2024-08-11T12:45:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 23,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/men-s-keirin/sfnl--------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 97kg Bronze Medal Match",
+            "id": "WREMFS97KG------------REPF000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREMFS97KG------------------------",
+            "eventName": "Men\u0027s Freestyle 97kg",
+            "phaseId": "WREMFS97KG------------REPF--------",
+            "phaseName": "MFS 97kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:30:00+02:00",
+            "endDate": "2024-08-11T12:40:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "10th on Mat B",
+            "order": 10,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "343",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1572025",
+                    "noc": "UKR",
+                    "name": "Murazi McHEDLIDZE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1981785",
+                    "noc": "AZE",
+                    "name": "Magomedkhan MAGOMEDOV",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-97kg/repf000100--"
+            }
+        },
+        {
+            "disciplineName": "Modern Pentathlon",
+            "eventUnitName": "Women\u0027s Individual, Final, Laser Run",
+            "id": "MPNWINDIVID-----------FNL-0001LR--",
+            "disciplineCode": "MPN",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "MPNWINDIVID-----------------------",
+            "eventName": "Women\u0027s Individual",
+            "phaseId": "MPNWINDIVID-----------FNL---------",
+            "phaseName": "Women\u0027s Individual Final",
+            "disciplineId": "MPN-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:40:00+02:00",
+            "endDate": "2024-08-11T13:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "VER",
+            "venueDescription": "Ch\u00E2teau de Versailles",
+            "location": "VER",
+            "locationDescription": "Ch\u00E2teau de Versailles",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "MPN05",
+            "groupId": "MPN05_MPNWINDIVID-----------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001lr--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 97kg Bronze Medal Match",
+            "id": "WREMFS97KG------------REPF000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREMFS97KG------------------------",
+            "eventName": "Men\u0027s Freestyle 97kg",
+            "phaseId": "WREMFS97KG------------REPF--------",
+            "phaseName": "MFS 97kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:40:00+02:00",
+            "endDate": "2024-08-11T12:50:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "11th on Mat B",
+            "order": 11,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "344",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1543095",
+                    "noc": "IRI",
+                    "name": "Amirali AZARPIRA",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1955488",
+                    "noc": "USA",
+                    "name": "Kyle Frederick SNYDER",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-97kg/repf000200--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Finals - Race 1",
+            "id": "CTRWSPRINT------------FNL-000001--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------FNL---------",
+            "phaseName": "Women\u0027s Sprint, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:45:00+02:00",
+            "endDate": "2024-08-11T12:53:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 28,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Men\u0027s Freestyle 97kg Final",
+            "id": "WREMFS97KG------------FNL-000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WREMFS97KG------------------------",
+            "eventName": "Men\u0027s Freestyle 97kg",
+            "phaseId": "WREMFS97KG------------FNL---------",
+            "phaseName": "MFS 97kg Final",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:50:00+02:00",
+            "endDate": "2024-08-11T13:00:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "12th on Mat B",
+            "order": 12,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "345",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1552495",
+                    "noc": "GEO",
+                    "name": "Givi MATCHARASHVILI",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1540305",
+                    "noc": "BRN",
+                    "name": "Akhmed TAZHUDINOV",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/men-s-freestyle-97kg/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Omnium, Elimination Race 3/4",
+            "id": "CTRWOMNIUM------------ELIM000100--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "ELIM",
+            "eventId": "CTRWOMNIUM------------------------",
+            "eventName": "Women\u0027s Omnium",
+            "phaseId": "CTRWOMNIUM------------ELIM--------",
+            "phaseName": "Women\u0027s Omnium, Elimination Race 3/4",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T12:53:00+02:00",
+            "endDate": "2024-08-11T13:15:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 32,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-omnium/elim000100--"
+            }
+        },
+        {
+            "disciplineName": "Volleyball",
+            "eventUnitName": "Women\u0027s Gold Medal Match",
+            "id": "VVOWTEAM6-------------FNL-000100--",
+            "disciplineCode": "VVO",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "VVOWTEAM6-------------------------",
+            "eventName": "Women",
+            "phaseId": "VVOWTEAM6-------------FNL---------",
+            "phaseName": "Women\u0027s Finals",
+            "disciplineId": "VVO-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:00:00+02:00",
+            "endDate": "2024-08-11T15:15:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "SP1",
+            "venueDescription": "South Paris Arena 1",
+            "location": "SP1",
+            "locationDescription": "South Paris Arena 1",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "26",
+            "sessionCode": "VVO52",
+            "competitors": [
+                {
+                    "code": "VVOWTEAM6---USA01",
+                    "noc": "USA",
+                    "name": "United States",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "VVOWTEAM6---ITA01",
+                    "noc": "ITA",
+                    "name": "Italy",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/volleyball/women/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Finals - Race 2",
+            "id": "CTRWSPRINT------------FNL-000002--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------FNL---------",
+            "phaseName": "Women\u0027s Sprint, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:15:00+02:00",
+            "endDate": "2024-08-11T13:23:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 33,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Women\u0027s Freestyle 76kg Bronze Medal Match",
+            "id": "WREWFS76KG------------REPF000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREWFS76KG------------------------",
+            "eventName": "Women\u0027s Freestyle 76kg",
+            "phaseId": "WREWFS76KG------------REPF--------",
+            "phaseName": "WFS 76kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:20:00+02:00",
+            "endDate": "2024-08-11T13:30:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "13th on Mat B",
+            "order": 14,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "346",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1571936",
+                    "noc": "CUB",
+                    "name": "Milaimy de la Carid. MARIN POTRILLE",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1902803",
+                    "noc": "KGZ",
+                    "name": "Aiperi MEDET KYZY",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/women-s-freestyle-76kg/repf000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Men\u0027s Keirin, Final for places 7-12",
+            "id": "CTRMKEIRIN------------FNL-000200--",
+            "disciplineCode": "CTR",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRMKEIRIN------------------------",
+            "eventName": "Men\u0027s Keirin",
+            "phaseId": "CTRMKEIRIN------------FNL---------",
+            "phaseName": "Men\u0027s Keirin, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:23:00+02:00",
+            "endDate": "2024-08-11T13:32:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 37,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRMKEIRIN------------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/men-s-keirin/fnl---------"
+            }
+        },
+        {
+            "disciplineName": "Handball",
+            "eventUnitName": "Men\u0027s Gold Medal Match",
+            "id": "HBLMTEAM7-------------FNL-000100--",
+            "disciplineCode": "HBL",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "HBLMTEAM7-------------------------",
+            "eventName": "Men",
+            "phaseId": "HBLMTEAM7-------------FNL---------",
+            "phaseName": "Men\u0027s Finals",
+            "disciplineId": "HBL-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:30:00+02:00",
+            "endDate": "2024-08-11T15:30:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "LIL",
+            "venueDescription": "Pierre Mauroy Stadium",
+            "location": "LIL",
+            "locationDescription": "Pierre Mauroy Stadium",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "38",
+            "sessionCode": "HBL46",
+            "competitors": [
+                {
+                    "code": "HBLMTEAM7---GER01",
+                    "noc": "GER",
+                    "name": "Germany",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "HBLMTEAM7---DEN01",
+                    "noc": "DEN",
+                    "name": "Denmark",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/handball/men/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Women\u0027s Freestyle 76kg Bronze Medal Match",
+            "id": "WREWFS76KG------------REPF000200--",
+            "disciplineCode": "WRE",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "REPF",
+            "eventId": "WREWFS76KG------------------------",
+            "eventName": "Women\u0027s Freestyle 76kg",
+            "phaseId": "WREWFS76KG------------REPF--------",
+            "phaseName": "WFS 76kg Bronze Medal Matches",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:30:00+02:00",
+            "endDate": "2024-08-11T13:40:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "14th on Mat B",
+            "order": 15,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 3,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "347",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "TBD",
+                    "name": "",
+                    "order": 0
+                },
+                {
+                    "code": "1535513",
+                    "noc": "COL",
+                    "name": "Tatiana RENTERIA RENTERIA",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/women-s-freestyle-76kg/repf000200--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Men\u0027s Keirin, Final for Gold",
+            "id": "CTRMKEIRIN------------FNL-000100--",
+            "disciplineCode": "CTR",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRMKEIRIN------------------------",
+            "eventName": "Men\u0027s Keirin",
+            "phaseId": "CTRMKEIRIN------------FNL---------",
+            "phaseName": "Men\u0027s Keirin, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:32:00+02:00",
+            "endDate": "2024-08-11T13:44:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 38,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRMKEIRIN------------FNL---------",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/men-s-keirin/fnl---------"
+            }
+        },
+        {
+            "disciplineName": "Wrestling",
+            "eventUnitName": "Women\u0027s Freestyle 76kg Final",
+            "id": "WREWFS76KG------------FNL-000100--",
+            "disciplineCode": "WRE",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WREWFS76KG------------------------",
+            "eventName": "Women\u0027s Freestyle 76kg",
+            "phaseId": "WREWFS76KG------------FNL---------",
+            "phaseName": "WFS 76kg Final",
+            "disciplineId": "WRE-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:40:00+02:00",
+            "endDate": "2024-08-11T13:50:00+02:00",
+            "hideStartDate": true,
+            "hideEndDate": true,
+            "startText": "15th on Mat B",
+            "order": 16,
+            "venue": "CDM",
+            "venueDescription": "Champ-de-Mars Arena",
+            "location": "WRB",
+            "locationDescription": "Champ-de-Mars Arena Mat B",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_ATH",
+            "unitNum": "348",
+            "sessionCode": "WRE13",
+            "groupId": "WRE13_WRB",
+            "competitors": [
+                {
+                    "code": "1955344",
+                    "noc": "USA",
+                    "name": "Kennedy Alexis BLADES",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1939701",
+                    "noc": "JPN",
+                    "name": "KAGAMI Yuka",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/wrestling/women-s-freestyle-76kg/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Sprint, Finals - Decider",
+            "id": "CTRWSPRINT------------FNL-000003--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "CTRWSPRINT------------------------",
+            "eventName": "Women\u0027s Sprint",
+            "phaseId": "CTRWSPRINT------------FNL---------",
+            "phaseName": "Women\u0027s Sprint, Finals",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:44:00+02:00",
+            "endDate": "2024-08-11T13:48:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 39,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "groupId": "CTR09_CTRWSPRINT------------FNL---------",
+            "competitors": [
+                {
+                    "code": "1966719",
+                    "noc": "CAN",
+                    "name": "Kelsey MITCHELL",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1543495",
+                    "noc": "COL",
+                    "name": "Martha BAYONA PINEDA",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1889702",
+                    "noc": "GER",
+                    "name": "Emma HINZE",
+                    "order": 2,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "1912514",
+                    "noc": "GBR",
+                    "name": "Sophie CAPEWELL",
+                    "order": 3,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------"
+            }
+        },
+        {
+            "disciplineName": "Cycling Track",
+            "eventUnitName": "Women\u0027s Omnium, Points Race 4/4",
+            "id": "CTRWOMNIUM------------PTS-000100--",
+            "disciplineCode": "CTR",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "PTS-",
+            "eventId": "CTRWOMNIUM------------------------",
+            "eventName": "Women\u0027s Omnium",
+            "phaseId": "CTRWOMNIUM------------PTS---------",
+            "phaseName": "Women\u0027s Omnium, Points Race 4/4",
+            "disciplineId": "CTR-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "ATH",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T13:56:00+02:00",
+            "endDate": "2024-08-11T14:28:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 43,
+            "venue": "VE1",
+            "venueDescription": "National Velodrome",
+            "location": "VE1",
+            "locationDescription": "Saint-Quentin-en-Yvelines Velodrome",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "EVENT",
+            "unitNum": "",
+            "sessionCode": "CTR09",
+            "competitors": [],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/cycling-track/women-s-omnium/pts-000100--"
+            }
+        },
+        {
+            "disciplineName": "Water Polo",
+            "eventUnitName": "Men\u0027s Gold Medal Match",
+            "id": "WPOMTEAM7-------------FNL-000100--",
+            "disciplineCode": "WPO",
+            "genderCode": "M",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "WPOMTEAM7-------------------------",
+            "eventName": "Men",
+            "phaseId": "WPOMTEAM7-------------FNL---------",
+            "phaseName": "Men\u0027s Finals",
+            "disciplineId": "WPO-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T14:00:00+02:00",
+            "endDate": "2024-08-11T15:25:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "DEF",
+            "venueDescription": "Paris La Defense Arena",
+            "location": "DEF",
+            "locationDescription": "Paris La Defense Arena",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "42",
+            "sessionCode": "WPO36",
+            "competitors": [
+                {
+                    "code": "WPOMTEAM7---SRB01",
+                    "noc": "SRB",
+                    "name": "Serbia",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "WPOMTEAM7---CRO01",
+                    "noc": "CRO",
+                    "name": "Croatia",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/water-polo/men/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Basketball",
+            "eventUnitName": "Women\u0027s Gold Medal Game",
+            "id": "BKBWTEAM5-------------FNL-000100--",
+            "disciplineCode": "BKB",
+            "genderCode": "W",
+            "eventCode": "",
+            "phaseCode": "FNL-",
+            "eventId": "BKBWTEAM5-------------------------",
+            "eventName": "Women",
+            "phaseId": "BKBWTEAM5-------------FNL---------",
+            "phaseName": "Women\u0027s Finals",
+            "disciplineId": "BKB-------------------------------",
+            "eventOrder": 0,
+            "phaseType": "3",
+            "eventUnitType": "HTEAM",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T15:30:00+02:00",
+            "endDate": "2024-08-11T17:15:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "startText": "",
+            "order": 0,
+            "venue": "BCY",
+            "venueDescription": "Bercy Arena",
+            "location": "BCY",
+            "locationDescription": "Bercy Arena",
+            "status": "SCHEDULED",
+            "statusDescription": "Scheduled",
+            "medalFlag": 1,
+            "liveFlag": false,
+            "scheduleItemType": "H2H_NOC",
+            "unitNum": "52",
+            "sessionCode": "BKB43",
+            "competitors": [
+                {
+                    "code": "BKBWTEAM5---FRA01",
+                    "noc": "FRA",
+                    "name": "France",
+                    "order": 0,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                },
+                {
+                    "code": "BKBWTEAM5---USA01",
+                    "noc": "USA",
+                    "name": "United States",
+                    "order": 1,
+                    "results": {
+                        "position": "",
+                        "mark": "",
+                        "medalType": "",
+                        "irm": ""
+                    }
+                }
+            ],
+            "extraData": {
+                "detailUrl": "/en/paris-2024/results/basketball/women/fnl-000100--"
+            }
+        },
+        {
+            "disciplineName": "Closing Ceremony",
+            "eventUnitName": "",
+            "id": "CER-CLOSING-----------------------",
+            "disciplineCode": "CER",
+            "genderCode": "",
+            "eventCode": "",
+            "phaseCode": "",
+            "eventId": "",
+            "eventName": "",
+            "phaseId": "",
+            "phaseName": "",
+            "disciplineId": "",
+            "eventOrder": 0,
+            "phaseType": "",
+            "eventUnitType": "",
+            "olympicDay": "2024-08-11",
+            "startDate": "2024-08-11T21:00:00+02:00",
+            "hideStartDate": false,
+            "hideEndDate": false,
+            "venue": "",
+            "venueDescription": "",
+            "status": "",
+            "statusDescription": "",
+            "medalFlag": 0,
+            "liveFlag": false,
+            "scheduleItemType": "",
+            "unitNum": "",
+            "extraData": {
+                "detailUrl": "/en/news/jo-paris-2024-ceremonie-cloture-stade-de-france"
+            }
+        }
+    ],
+    "groups": [
+        {
+            "isLive": true,
+            "id": "WRE13_WRB",
+            "startDate": "2024-08-11T11:00:00+02:00",
+            "hasMedals": true,
+            "hasWarnings": false,
+            "title": "Wrestling",
+            "subTitle": "Champ-de-Mars Arena Mat B",
+            "unitsCount": 15,
+            "type": "location"
+        },
+        {
+            "isLive": true,
+            "id": "MPN05_MPNWINDIVID-----------FNL---------",
+            "startDate": "2024-08-11T11:00:00+02:00",
+            "hasMedals": true,
+            "hasWarnings": false,
+            "title": "Modern Pentathlon",
+            "subTitle": "Women\u0027s Individual Final",
+            "unitsCount": 4,
+            "type": "phase"
+        },
+        {
+            "isLive": true,
+            "id": "CTR09_CTRWSPRINT------------SFNL--------",
+            "startDate": "2024-08-11T11:22:00+02:00",
+            "hasMedals": false,
+            "hasWarnings": false,
+            "title": "Cycling Track",
+            "subTitle": "Women\u0027s Sprint, Semifinals",
+            "unitsCount": 3,
+            "type": "phase"
+        },
+        {
+            "isLive": false,
+            "id": "CTR09_CTRWSPRINT------------FNL---------",
+            "startDate": "2024-08-11T12:45:00+02:00",
+            "hasMedals": true,
+            "hasWarnings": false,
+            "title": "Cycling Track",
+            "subTitle": "Women\u0027s Sprint, Finals",
+            "unitsCount": 3,
+            "type": "phase"
+        },
+        {
+            "isLive": false,
+            "id": "CTR09_CTRMKEIRIN------------FNL---------",
+            "startDate": "2024-08-11T13:23:00+02:00",
+            "hasMedals": true,
+            "hasWarnings": false,
+            "title": "Cycling Track",
+            "subTitle": "Men\u0027s Keirin, Finals",
+            "unitsCount": 2,
+            "type": "phase"
+        }
+    ]
+}
